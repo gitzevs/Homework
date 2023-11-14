@@ -16,7 +16,7 @@ import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-public class DemoWebShop extends BaseTest {
+public class DemoWebShopTest extends BaseTest {
     public EpamPage epamPage;
     public ContactUs contactUs;
     public UaPageObject uaPageObject;

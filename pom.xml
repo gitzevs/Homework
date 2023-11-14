@@ -56,12 +56,12 @@
             <version>4.13.2</version>
             <scope>test</scope>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>org.codehaus.groovy</groupId>-->
-<!--            <artifactId>groovy-all</artifactId>-->
-<!--            <version>3.0.9</version> &lt;!&ndash; Use the latest version &ndash;&gt;-->
-<!--        </dependency>-->
-
+        <dependency>
+            <groupId>org.codehaus.groovy</groupId>
+            <artifactId>groovy-all</artifactId>
+            <version>3.0.18</version>
+            <type>pom</type>
+        </dependency>
         <!-- Add WebDriver dependency for your browser (e.g., Chrome) -->
     </dependencies>
     <build>
